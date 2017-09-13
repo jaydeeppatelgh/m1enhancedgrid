@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <JD_Enhancedgrid>
+            <active>true</active>
+            <codePool>community</codePool>
+        </JD_Enhancedgrid>
+    </modules>
+</config> 
